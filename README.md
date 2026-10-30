@@ -37,18 +37,21 @@ The virtual network was created and configured with the IPv4 prefix 10.0.0.0/24,
 3. Virtual Machine Setup
 
 Kali Linux was configured as a virtual machine in VirtualBox and connected to the dedicated NAT Network. Plus, a shared folder was created.
+[figure2](https://github.com/ITWithRosy/NETWORKWALKS-B084-WK1-PM1-CYBERSECURITY-LAB-SETUP/blob/main/3-Screenshot-shared-folder.png)
 
 4. IP Address and Routing Verification
    
 This step was to attribute an IP to the VM manually.
+[figure3](https://github.com/ITWithRosy/NETWORKWALKS-B084-WK1-PM1-CYBERSECURITY-LAB-SETUP/blob/main/2-%20Screenshot-IPadress.png)
 
 5. Connectivity Testing
 
 The connectivity was tested in order to verify communication with the network gateway and the internet.
+[figure4](https://github.com/ITWithRosy/NETWORKWALKS-B084-WK1-PM1-CYBERSECURITY-LAB-SETUP/blob/main/5-Screenshot-connectivity-test.png)
 
 6. Snapshot of the VM
 The snapshot was to conserve a version of the initial configuration of the VM.
-
+[figure5](https://github.com/ITWithRosy/NETWORKWALKS-B084-WK1-PM1-CYBERSECURITY-LAB-SETUP/blob/main/4-Screenshot-snapshot.png)
 ## Troubleshooting
 
 - **Issue:** Internet Connectivity After Static IP Configuration 
@@ -67,8 +70,8 @@ This environment is intended for education and authorized security testing only.
 
 👤 Author
 
-Ekoum Rosy
-Cybersecurity Student 
+Ekoum Rosy | 
+Cybersecurity Student | 
 Linkedin: [https://www.linkedin.com/in/rosy-ekoum](https://www.linkedin.com/in/rosy-ekoum)
 
 📌 Project Information

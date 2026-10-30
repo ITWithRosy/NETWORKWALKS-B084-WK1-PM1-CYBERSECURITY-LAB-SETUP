@@ -32,6 +32,7 @@ The objective was to establish a functional virtual machine and configure its ne
 2. NAT Network Configuration
 
 The virtual network was created and configured with the IPv4 prefix 10.0.0.0/24,as a NAT Network with DHCP enabled.
+[figure1](https://github.com/ITWithRosy/NETWORKWALKS-B084-WK1-PM1-CYBERSECURITY-LAB-SETUP/blob/main/1-Screenshot-%20netwrok-configuration.png)
 
 3. Virtual Machine Setup
 
